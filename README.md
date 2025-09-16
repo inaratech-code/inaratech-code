@@ -4,7 +4,7 @@ IDEAS WITH
 TECHNOLOGY</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akki07-code&label=Profile%20views&color=0e75b6&style=flat" alt="akki07-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akki07-code&label=Profile%20views&color=0e75b6&style=flat" alt="inaratech-code" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
