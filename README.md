@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Akshay Mohpal</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">ILLUMINATING
+IDEAS WITH
+TECHNOLOGY</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki07-code&label=Profile%20views&color=0e75b6&style=flat" alt="akki07-code" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a DevOps student also trying hands on **ML**
+- 🔭 CREATIVE AGENCY OF THE FUTURE
 
 - 📫 How to reach me **inaratech2025@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay mohpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay mohpal" height="30" width="40" /></a>
 <a href="https://instagram.com/akshay_kumar_mohpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_kumar_mohpal" height="30" width="40" /></a>
