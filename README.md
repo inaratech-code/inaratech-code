@@ -1,28 +1,133 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">ILLUMINATING
-IDEAS WITH
-TECHNOLOGY</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akki07-code&label=Profile%20views&color=0e75b6&style=flat" alt="inaratech-code" /> </p>
+# 👋 Hi, I'm Akshay Mohpal
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Founder & Software Engineer at Inara Tech
 
-- 🔭 CREATIVE AGENCY OF THE FUTURE
+Building digital products that help businesses automate, scale, and grow.
 
-- 📫 How to reach me **inaratech2025@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;SaaS+Builder;DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Founder+of+Inara+Tech" />
 
-<h3 align="left">Connect with us:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshay mohpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay mohpal" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay_kumar_mohpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_kumar_mohpal" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+I build software that solves real business problems.
+
+From custom websites and management systems to complete SaaS products, I focus on creating solutions that are:
+
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🎯 Business Driven
+
+Currently working on:
+
+- 🏫 School ERP Systems
+- 🛒 POS & Inventory Solutions
+- 👥 CRM Platforms
+- 🤖 AI-Powered Business Tools
+- ☁️ Cloud & DevOps Infrastructure
+- 🌐 Enterprise Websites
+
+---
+
+## 🏢 About Inara Tech
+
+> Illuminating Ideas With Technology
+
+Inara Tech helps startups, schools, NGOs, and businesses digitize operations through custom software and automation.
+
+### Services
+
+- Custom Software Development
+- SaaS Product Development
+- Website & Web Application Development
+- DevOps & Cloud Deployment
+- ERP & CRM Solutions
+- AI Integrations
+- UI/UX Design
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=inaratech-code&show_icons=true&theme=transparent" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=inaratech-code&theme=transparent" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaratech-code&show_icons=true&locale=en&layout=compact" alt="inaratech-code" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaratech-code&layout=compact&theme=transparent" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaratech-code&show_icons=true&locale=en" alt="inaratech-code" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inaratech-code&" alt="inaratech-code" /></p>
+## 🎯 Current Mission
+
+Building Nepal's next generation of business software.
+
+Helping organizations move from:
+
+📄 Paper-Based Systems
+
+➡️
+
+💻 Smart Digital Workflows
+
+---
+
+## 🌎 Connect With Me
+
+📧 Email: inaratech2025@gmail.com
+
+🌐 Website: https://www.inaratech.com.np
+
+💼 LinkedIn: https://linkedin.com/company/inaratech
+
+📷 Instagram: https://instagram.com/inaratech.np
+
+---
+
+<div align="center">
+
+### "Technology should simplify business, not complicate it."
+
+⭐ If you like my work, consider starring a repository.
+
+</div>
